@@ -48,3 +48,8 @@ Research papers:
     * https://www.agriculturejournal.org/
     * https://www.nature.com/subjects/agriculture
     * https://juniperpublishers.com/artoaj/
+
+### Ideas
+
+* A tool/platform which can raise funds in case of drought/when farmers are in dire need of money - because of which they eventually commit suicide -  like paytm etc do in case of floods, earthquake or any other natural calamity. We need to build something like this especially for farmers, we need to have a mediator, backed by technology, which can directly connect needy farmers and those who can donate. We need an organization to maintain this platform's credibility and to run it!
+* Generate passive sources of income, so that agriculture is not the only source of income for farmers. They should be able to participate remotely in that activity. One such activity - is dataset collection - but this isn't sustainable. Because of boom in ML and AI, dataset collection has become a business activity, and it can be done remotely. Something similar to Amazon Mechanical Turk but should not require heavy capital initially.
