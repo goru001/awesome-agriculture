@@ -43,6 +43,7 @@ Yesterday I came across [this news](https://indianexpress.com/article/india/over
 
 Research papers:
 * https://arxiv.org/ftp/arxiv/papers/1807/1807.11809.pdf
+* [Deep Learning in agriculture](https://arxiv.org/ftp/arxiv/papers/1807/1807.11809.pdf)
 * Research Articles
     * https://www.agriculturejournal.org/
     * https://www.nature.com/subjects/agriculture
