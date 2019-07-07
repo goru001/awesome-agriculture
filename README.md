@@ -52,7 +52,11 @@ Research papers:
 ### Ideas
 
 * A tool/platform which can raise funds in case of drought/when farmers are in dire need of money - because of which they eventually commit suicide -  like paytm etc do in case of floods, earthquake or any other natural calamity. We need to build something like this especially for farmers, we need to have a mediator, backed by technology, which can directly connect needy farmers and those who can donate. We need an organization to maintain this platform's credibility and to run it!
+
 * Generate passive sources of income, so that agriculture is not the only source of income for farmers. They should be able to participate remotely in that activity. One such activity - is dataset collection - but this isn't sustainable. Because of boom in ML and AI, dataset collection has become a business activity, and it can be done remotely. Something similar to Amazon Mechanical Turk but should not require heavy capital initially.
+
 * Provide Better weather predictions knowledge to farmers (maybe through a mobile app) and also help them with which crops should they grow in that particular season, keeping in mind the weather conditions. So they can plan crops according to weather( how much water it needs, in rain dependent areas) and avoid losses due to unfavourable weather.
 
 * A Website/Mobile app that can work as a tool where farmers can learn, network with other farmers. Where new techniques can be taught to farmers. But as most farmers don't have access to net or mobile phones , gram panchayats can be involved for better implementation.
+
+* Developing a platform where we can directly connect farmers to consumers. It will increase farmers income and consumers will get product on cheaper price.
